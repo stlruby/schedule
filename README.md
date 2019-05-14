@@ -1,51 +1,55 @@
 # Upcoming
 
-* May 13, 2019
-    * Topic: How To Contribute To Rails
-    * Speaker: Chris Oliver, founder of Go Rails and co-host of Remote Ruby podcast
-    * Food sponsor: Devanny Consulting Group
+* June 10, 2019
+    * Topic: How to Conference
+    * Speaker: Craig Buchek
+    * Food sponsor: TBD
+    * NOTE: Cheryl out
 
-* June, 2019
-    * Topic: 
-    * Speaker: 
-    * Food sponsor: 
+* July 8, 2019
+    * Topic: panel?
+    * Speaker: Cheryl Schaefer?
+    * Food sponsor: TBD
 
-* July, 2019
-    * Topic: 
-    * Speaker: 
-    * Food sponsor: 
+* August 12, 2019
+    * Topic: TBD
+    * Speaker: Mike Menne (tentative)
+    * Food sponsor: TBD
 
-* August, 2019
-    * Topic: 
-    * Speaker: 
-    * Food sponsor: 
+* September 9, 2019
+    * Topic: Airtable
+    * Speaker: Robert Riebau (tentative)
+    * Food sponsor: TBD
+    * NOTE: Craig and Cheryl both out
 
-* September, 2019
-    * Topic: 
-    * Speaker: 
-    * Food sponsor: 
+* October 14, 2019
+    * Topic: RubyConf preview?
+    * Speaker: Craig Buchek (tentative)
+    * Food sponsor: TBD
 
-* October, 2019
-    * Topic: 
-    * Speaker: 
-    * Food sponsor: 
+* November 11, 2019
+    * Topic: TBD
+    * Speaker: Bob Lail
+    * Food sponsor: TBD
+    * NOTE: Veterans Day
 
-
-* November, 2019
-    * Topic: 
-    * Speaker: 
-    * Food sponsor: 
-
-* December, 2019
-    * Topic: 
-    * Speaker: 
-    * Food sponsor: 
+* December 9, 2019
+    * Cancelled - go to STL Tech bowling
 
 
 # Potential Speakers
 
-* Craig Buchek
-    * August, September, October
+* Charlie Sanders
 
 
 # Potential Topics
+
+
+# Frequent Speakers
+
+* Craig Buchek
+* Cheryl Shaefer
+* Chris Oliver
+* Matt Ruzicka
+* Bob Lail
+
