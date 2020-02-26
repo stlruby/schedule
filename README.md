@@ -1,40 +1,66 @@
 # Upcoming
 
-* June 10, 2019
-    * Topic: How to Conference
-    * Speaker: Craig Buchek
-    * Food sponsor: TBD
-    * NOTE: Cheryl out
+We generally meet on the 2nd Monday of every month.
 
-* July 8, 2019
-    * Topic: panel?
-    * Speaker: Cheryl Schaefer?
+* March 9, 2020
+    * Topic: 
+    * Speaker: 
     * Food sponsor: TBD
+    * NOTES: 
 
-* August 12, 2019
-    * Topic: TBD
-    * Speaker: Mike Menne (tentative)
+* April 13, 2020
+    * Topic: RailsConf preview
+    * Speaker: Chris Oliver, Craig Buchek?
     * Food sponsor: TBD
+    * NOTES: 
 
-* September 9, 2019
-    * Topic: Airtable
-    * Speaker: Robert Riebau (tentative)
+* May 11, 2020
+    * Topic: RailsConf review 
+    * Speaker: Chris Oliver, Bob Lail, Craig Buchek
     * Food sponsor: TBD
-    * NOTE: Craig and Cheryl both out
+    * NOTES: 
 
-* October 14, 2019
-    * Topic: RubyConf preview?
-    * Speaker: Craig Buchek (tentative)
+* June 8, 2020
+    * Topic: 
+    * Speaker: 
     * Food sponsor: TBD
+    * NOTES: 
 
-* November 11, 2019
-    * Topic: TBD
-    * Speaker: Bob Lail
+* July 13, 2020
+    * Topic: 
+    * Speaker: 
     * Food sponsor: TBD
-    * NOTE: Veterans Day
+    * NOTES: 
 
-* December 9, 2019
-    * Cancelled - go to STL Tech bowling
+* August 10, 2020
+    * Topic: 
+    * Speaker: 
+    * Food sponsor: TBD
+    * NOTES: 
+
+* September 14, 2020
+    * Topic: 
+    * Speaker: 
+    * Food sponsor: TBD
+    * NOTES: 
+
+* October 12, 2020
+    * Topic: 
+    * Speaker: 
+    * Food sponsor: TBD
+    * NOTES: 
+
+* November 9, 2020
+    * Topic: 
+    * Speaker: 
+    * Food sponsor: TBD
+    * NOTES: 
+
+* December 14, 2020
+    * Topic: 
+    * Speaker: 
+    * Food sponsor: TBD
+    * NOTES: 
 
 
 # Potential Speakers
@@ -52,4 +78,5 @@
 * Chris Oliver
 * Matt Ruzicka
 * Bob Lail
+* Chris Zempel
 
