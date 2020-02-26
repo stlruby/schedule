@@ -3,8 +3,9 @@
 We generally meet on the 2nd Monday of every month.
 
 * March 9, 2020
-    * Topic: 
-    * Speaker: 
+    * Topic: Cybersecurity for the Software Developer
+    * Speaker: Adam C Smith
+    * Speaker contact: Matt Ruzicka
     * Food sponsor: TBD
     * NOTES: 
 
@@ -69,6 +70,8 @@ We generally meet on the 2nd Monday of every month.
 
 
 # Potential Topics
+
+* State Charts and Model-Based Testing - Chris Zempel
 
 
 # Frequent Speakers
